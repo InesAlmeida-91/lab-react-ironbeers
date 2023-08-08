@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+  .header-container {
+    background-color: blueviolet;
+  }
+  
+  .home-button {
+    width: 50px;
+  }
+
